@@ -1,0 +1,10 @@
+	.container {
+		width:100%;
+		height:auto;
+	}
+	
+	.navigation{
+		display:block;
+		width:auto;
+		margin: 2% 4%;
+	}
